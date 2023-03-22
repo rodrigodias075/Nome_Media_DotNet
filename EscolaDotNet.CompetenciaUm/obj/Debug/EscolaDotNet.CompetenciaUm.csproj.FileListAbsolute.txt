@@ -1,0 +1,8 @@
+C:\Users\ALUNO\source\repos\EscolaDotNet\EscolaDotNet.CompetenciaUm\bin\Debug\EscolaDotNet.CompetenciaUm.exe.config
+C:\Users\ALUNO\source\repos\EscolaDotNet\EscolaDotNet.CompetenciaUm\bin\Debug\EscolaDotNet.CompetenciaUm.exe
+C:\Users\ALUNO\source\repos\EscolaDotNet\EscolaDotNet.CompetenciaUm\bin\Debug\EscolaDotNet.CompetenciaUm.pdb
+C:\Users\ALUNO\source\repos\EscolaDotNet\EscolaDotNet.CompetenciaUm\obj\Debug\EscolaDotNet.CompetenciaUm.csproj.AssemblyReference.cache
+C:\Users\ALUNO\source\repos\EscolaDotNet\EscolaDotNet.CompetenciaUm\obj\Debug\EscolaDotNet.CompetenciaUm.csproj.SuggestedBindingRedirects.cache
+C:\Users\ALUNO\source\repos\EscolaDotNet\EscolaDotNet.CompetenciaUm\obj\Debug\EscolaDotNet.CompetenciaUm.csproj.CoreCompileInputs.cache
+C:\Users\ALUNO\source\repos\EscolaDotNet\EscolaDotNet.CompetenciaUm\obj\Debug\EscolaDotNet.CompetenciaUm.exe
+C:\Users\ALUNO\source\repos\EscolaDotNet\EscolaDotNet.CompetenciaUm\obj\Debug\EscolaDotNet.CompetenciaUm.pdb
